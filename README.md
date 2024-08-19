@@ -434,7 +434,7 @@ This dashboard is a powerful tool for understanding Japan's seismic activity, pr
 
 ### Additional Visualizations
 
-While the main article focuses on key visualizations, the full notebook includes additional charts, such as "Seismic Events Over Time by Region" and "Average Monthly Magnitude." These provide further insights into the temporal and magnitude-related aspects of seismic activity across Japan.
+While the main article focuses on key visualizations, the full notebook `japanAnalysis.ipynb` includes additional charts, such as "Seismic Events Over Time by Region" and "Average Monthly Magnitude." These provide further insights into the temporal and magnitude-related aspects of seismic activity across Japan.
 
 ## Conclusion
 
