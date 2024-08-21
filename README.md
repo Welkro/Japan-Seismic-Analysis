@@ -448,3 +448,8 @@ This project demonstrates the power of Python, combined with LightningChart, for
 ### Benefits of Using LightningChart Python For This Project
 
 LightningChart Python provided the tools to create high-performance, interactive visualizations crucial for exploring and understanding seismic data. Its ability to handle large datasets efficiently made it an ideal choice for this analysis.
+
+## Sources
+
+* [Dataset 1](https://www.kaggle.com/datasets/aerodinamicc/earthquakes-in-japan)
+* [Dataset 2](https://www.kaggle.com/datasets/stpeteishii/earthquake-in-japan?select=japan_2000_2023_query.csv)
