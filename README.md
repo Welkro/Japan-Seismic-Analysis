@@ -59,9 +59,12 @@ The datasets are loaded into Pandas DataFrames for further processing:
 ```python
 import pandas as pd
 
-# Load the datasets
-data_2000_2023 = pd.read_csv('Japan_2000_2023.csv')
-data_2001_2018 = pd.read_csv('Japan_2001-2018.csv')
+# Locate and load the datasets
+file_path_japan_2001_2018 = 'datasets/Japan_2001-2018.csv'
+file_path_japan_2000_2023 = 'datasets/Japan_2000_2023.csv'
+
+data_japan_2001_2018 = pd.read_csv(file_path_japan_2001_2018)
+data_japan_2000_2023 = pd.read_csv(file_path_japan_2000_2023)
 ```
 
 ### Data Processing
