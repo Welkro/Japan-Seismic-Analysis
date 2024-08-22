@@ -12,7 +12,7 @@ LightningChart Python offers advanced features for creating detailed and interac
 
 ### Installing Python and Necessary Libraries
 
-To get started, you'll need Python installed on your system, along with the necessary libraries. You can install the required libraries using `pip`:
+To get started, you'll need [Python](https://www.python.org/downloads/) installed on your system, along with the necessary libraries. You can install the required libraries using `pip`:
 
 ```bash
 pip install pandas lightningchart
